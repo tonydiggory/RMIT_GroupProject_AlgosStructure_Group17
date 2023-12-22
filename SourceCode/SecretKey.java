@@ -21,7 +21,8 @@ public class SecretKey {
 
     public SecretKey() {
         // for the real test, your program will not know this
-        correctKey = "MOCHOCHAHHCM";
+        // Test Case: MMMMMMMMMMMM, MOCHOCHAHHCM, ACMCMHOOACMA
+        correctKey = "MMMMMMMMMMMM";
         counter = 0;
     }
 

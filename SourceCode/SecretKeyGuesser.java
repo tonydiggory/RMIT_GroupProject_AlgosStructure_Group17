@@ -4,7 +4,6 @@
  * Semester: 2023C
  * Assessment: Group Project
  * Author - ID:  Nguyen Thien Co  -  s3938338
- *               Vo Minh Thien An -  s3916570
  *
  * NOTE:
  * - You are not allowed to use code copied from the Internet.

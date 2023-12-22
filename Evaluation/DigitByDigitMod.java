@@ -4,6 +4,7 @@
  * Semester: 2023C
  * Assessment: Group Project
  * Author - ID:  Nguyen Thien Co  -  s3938338
+ *               Vo Minh Thien An -  s3916570
  *
  * NOTE: To enhance convenience during evaluation process such as retrieving guessCounter or generating random SecretKey, slight changes have been made in comparison with the corresponding file in "SourceCode" folder.
  * 

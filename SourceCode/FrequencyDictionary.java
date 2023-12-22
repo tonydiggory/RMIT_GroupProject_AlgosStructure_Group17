@@ -37,7 +37,7 @@ public class FrequencyDictionary {
 
 
     /**
-     * This constructor creates a Frequency with the predifined capacity.
+     * This constructor creates a Frequency with the predefined capacity.
      * 
      * @param capacity - the initial capacity of the FrequencyDictionary.
      */
