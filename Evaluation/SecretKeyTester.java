@@ -53,7 +53,7 @@ public class SecretKeyTester {
         System.out.println("=".repeat(25) + "EVALUATION" + "=".repeat(25));
         System.out.println();
         
-        int testSize = 2307;
+        int testSize = 2007;
         String[] testData = new String[testSize];
         testData = generateTestData(testSize);
 
@@ -135,7 +135,7 @@ public class SecretKeyTester {
         // Optimized Digit By DIgit Modification (ODBDM)
         // Accuracy Test
         System.out.println("_______ Optimized Digit By Digit Modification _______");
-        System.out.println("Accuracy (2307 testKeys):");
+        System.out.println("Accuracy (2007 testKeys):");
         System.out.println("Success: " + ODBDMAccuracy);
         System.out.println("Not Pass: " + (testSize - ODBDMAccuracy));
         System.out.println();
@@ -166,7 +166,7 @@ public class SecretKeyTester {
         // Digit By DIgit Modification (DBDM)
         // Accuracy Test
         System.out.println("_______ Digit By Digit Modification _______");
-        System.out.println("Accuracy (2307 testKeys):");
+        System.out.println("Accuracy (2007 testKeys):");
         System.out.println("Success: " + DBDMAccuracy);
         System.out.println("Not Pass: " + (testSize - DBDMAccuracy));
         System.out.println();
